@@ -5,6 +5,7 @@
 ### 三、遊戲目的：讓玩家透過遊戲，學習到如何陪伴與關懷失智症患者。  
 ### 四、遊戲對象：國小至國高中學生  
 ### 五、遊玩人數：4~6人  
-### 六、遊玩時間：預計1.5小時  
+### 六、遊玩時間：預計1.5小時   
+![image](https://github.com/EmilyChang6/Dementia-Life-A-Strategy-Card-Game/blob/main/%E5%A4%B1%E6%99%BA%E4%BA%BA%E7%94%9F.jpg)
 
 
